@@ -22,7 +22,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     
-    NSString *stName = @"Mohammad";
+    NSString *stName = @"Mohammad Salah";
     NSLog(@"%@", stName);
 }
 
